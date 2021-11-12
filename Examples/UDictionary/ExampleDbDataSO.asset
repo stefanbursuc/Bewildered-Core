@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672531ab254ba054ab40972d2c1516f3, type: 3}
+  m_Name: ExampleDbDataSO
+  m_EditorClassIdentifier: 
+  int_int:
+    _serializedPairs: []
+  string_int:
+    _serializedPairs: []
+  Vector2_int:
+    _serializedPairs: []
+  Vector3_int:
+    _serializedPairs: []
+  Color_int:
+    _serializedPairs: []
+  Color32_int:
+    _serializedPairs: []
+  ExampleBehaviour_int:
+    _serializedPairs: []
+  EnumExample_int:
+    _serializedPairs: []
+  StructSerializable_int:
+    _serializedPairs: []
+  StructUnserializable_int:
+    _serializedPairs: []
+  ClassSerializable_int:
+    _serializedPairs: []
+  ClassUnserializable_int:
+    _serializedPairs: []
+  ClassSerializableEquatable_int:
+    _serializedPairs: []
+  ClassDerivedSerializable_int:
+    _serializedPairs: []
+  int_ExampleBehaviour:
+    _serializedPairs: []
+  int_EnumExample:
+    _serializedPairs: []
+  int_StructSerializable:
+    _serializedPairs: []
+  int_StructUnserializable:
+    _serializedPairs: []
+  int_ClassSerializable:
+    _serializedPairs: []
+  int_ClassUnserializable:
+    _serializedPairs: []
+  int_ClassSerializableEquatable:
+    _serializedPairs: []
+  int_ClassDerivedSerializable:
+    _serializedPairs: []
